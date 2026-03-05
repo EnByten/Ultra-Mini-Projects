@@ -1,5 +1,5 @@
 # Ultra-Mini-Projects
 A collection of projects I learned from following various resources on the internet and modified them
 
-## Asteroids Using RayLib Graphics library for C/C++
-Developed a simple asteroid games using the raylib library in C
+## Terminal Grid Game using Raylib and C++
+Developed a simple Terminal Grid Game where the objective is to bring X to O and collect points. Used C++ in first iteration and then build Raylib
