@@ -10,7 +10,7 @@ int main(){
     srand(time(0));
 
     //timer
-    float timeLeft=10.0f;
+    float timeLeft=30.0f;
 
     //row and column for start position
     int Xr=rand()%10; 
